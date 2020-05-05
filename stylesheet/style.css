@@ -1,0 +1,179 @@
+html{
+    font-size:16px;
+    line-height: 1.5em;
+}
+body{
+    
+  font-family:'proxima-nova';
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.p-large{
+    font-size: 22px;
+    line-height: 28px;
+}
+.p-medium{
+    font-size:18px;
+    line-height:24px;
+}
+
+nav {
+    height:80px;
+    padding:24px 0;
+  
+
+}
+.wrapper{
+    max-width: 1140px;
+    margin:auto;
+}
+.logo{
+    top:-4px;
+   height:36px;
+    float:left;
+    position: relative;
+    
+}
+nav ul.nav-left{
+    display:flex;
+    float:left;
+    padding-top:5px;
+
+    
+}
+ul.nav-left li{
+    margin-left:16px;
+    font-weight: 700;
+
+}
+nav ul.nav-right{
+    display:flex;
+    float:right;
+    
+}
+ul.nav-right li{
+    margin-left:16px;
+    font-weight: 700;
+
+}
+
+.mobile{
+    display: none;
+}
+.btn{
+    border:none;
+    font-weight: 700;
+}
+.btn-nav{
+    background-color: #29b17b;
+  
+    
+}
+.nav-log{
+    padding-top: 5px;
+}
+.hero{
+    background-image: url('../img/hero-a.jpg');
+    height:640px;
+    background-size: cover;
+    color:white;
+   
+}
+.hero-content{
+    padding:100px 0px;
+    display:flex;
+    flex-direction: column;
+    width:50%;
+}
+.hero h1{
+    font-weight: 700;
+    
+
+}
+h1{
+    font-size:56px;
+
+}
+.hero .btn{
+    background:#092c5d;
+    color:white;
+    padding:16px 32px;
+    width:164px; 
+}
+.sidekick{
+    background-color:#092c5d;
+    color:white;
+    padding:100px;
+}
+.quote-box{
+    display:flex;
+    justify-content: space-between;
+   
+
+}
+
+.testimonial{
+    
+    width:40%;
+}
+.testimonial .quote{
+    
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 32px;
+    
+}
+.author{
+    display:flex; 
+    
+    align-items: center;
+    
+}
+.author img{
+    width:100px;
+    border-radius: 100%;
+    border:5px solid white;
+    float: left;
+    margin:10px;  
+    
+}
+.author.name{
+    margin-left: 16px;
+    font-size: 16px !important;
+  
+
+}
+.ratio{
+    width:40%;   
+}
+.ratio-lg{
+    font-size: 200px;
+    line-height: 160px;
+    font-weight: 700;
+}
+.ratio-cont{
+    color:#FAD400;
+    font-size: 32px;
+    font-weight: 700;
+  text-align: center;
+    
+}
+.brands{
+    padding:100px 0px;
+    text-align: center;
+}
+.brands h2{
+    font-size: 48px;
+    font-weight: 600;
+    color:#235BA8;
+}
+.brand-list{
+    display:flex;
+    justify-content: space-around;
+}

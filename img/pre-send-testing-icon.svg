@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="68px" viewBox="0 0 118 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>pre-send testing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 68.4214876 118 68.4214876 118 0.421487603 0 0.421487603"></polygon>
+    </defs>
+    <g id="Master" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1326-Litmus-Home-v6b" transform="translate(-188.000000, -2170.000000)">
+            <g id="Group-6" transform="translate(0.000000, 1643.000000)">
+                <g id="pre-send-testing" transform="translate(188.000000, 526.578512)">
+                    <path d="M106,6.80508764 C106,3.84410762 103.556892,1.4214876 100.570871,1.4214876 L18.4291294,1.4214876 C15.4431082,1.4214876 13,3.84410762 13,6.80508764 L13,62.0378876 C13,64.9988676 15.4431082,67.4214876 18.4291294,67.4214876 L100.570871,67.4214876 C103.556892,67.4214876 106,64.9988676 106,62.0378876 L106,6.80508764 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    <path d="M106,6.80508764 C106,3.84410762 103.556892,1.4214876 100.570871,1.4214876 L18.4291294,1.4214876 C15.4431082,1.4214876 13,3.84410762 13,6.80508764 L13,62.0378876 C13,64.9988676 15.4431082,67.4214876 18.4291294,67.4214876 L100.570871,67.4214876 C103.556892,67.4214876 106,64.9988676 106,62.0378876 L106,6.80508764 Z" id="Stroke-3" stroke="#235BA8" stroke-width="2"></path>
+                    <path d="M59,9.4214876 L12,9.4214876 L12,61.3664346 C12,64.961346 14.2867063,67.4214876 17.8660714,67.4214876 L59,67.4214876 L59,9.4214876 Z" id="Fill-5" fill="#235BA8"></path>
+                    <g id="Group-10" transform="translate(12.000000, 8.421488)">
+                        <path d="M0.69325,0.8866 L93.1667292,0.8866" id="Fill-7" fill="#FFFFFF"></path>
+                        <path d="M0.69325,0.8866 L93.1667292,0.8866" id="Stroke-9" stroke="#235BA8" stroke-width="2"></path>
+                    </g>
+                    <path d="M66,39.9214876 L85,39.9214876" id="Stroke-11" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M20,14.9214876 L51,14.9214876" id="Stroke-13" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M19,20.9214876 L44,20.9214876" id="Stroke-15" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M19,51.9214876 L33,51.9214876" id="Stroke-17" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M19,57.9214876 L33,57.9214876" id="Stroke-19" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M38,51.9214876 L52,51.9214876" id="Stroke-21" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M38,57.9214876 L52,57.9214876" id="Stroke-23" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M66,46.9214876 L85,46.9214876" id="Stroke-25" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M66,53.9214876 L85,53.9214876" id="Stroke-27" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M91,39.9214876 L98,39.9214876" id="Stroke-29" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M91,42.9214876 L96,42.9214876" id="Stroke-31" stroke="#29B17B" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M91,46.9214876 L97,46.9214876" id="Stroke-33" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M91,49.9214876 L96,49.9214876" id="Stroke-35" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M66,59.9214876 L85,59.9214876" id="Stroke-37" stroke="#235BA8" stroke-width="2" stroke-linecap="round"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-40"></g>
+                    <polygon id="Fill-39" fill="#29B17B" mask="url(#mask-2)" points="65 31.4214876 99 31.4214876 99 15.4214876 65 15.4214876"></polygon>
+                    <polygon id="Stroke-41" stroke="#29B17B" stroke-width="2" mask="url(#mask-2)" points="65 31.4214876 99 31.4214876 99 15.4214876 65 15.4214876"></polygon>
+                    <path d="M86,30.4214876 C86,24.8990695 81.5226437,20.4214876 75.9994962,20.4214876 C70.4773563,20.4214876 66,24.8990695 66,30.4214876 L86,30.4214876 Z" id="Fill-42" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    <path d="M90,21.4214876 C90,19.7641256 91.342638,18.4214876 93,18.4214876 C94.657362,18.4214876 96,19.7641256 96,21.4214876 C96,23.0788496 94.657362,24.4214876 93,24.4214876 C91.342638,24.4214876 90,23.0788496 90,21.4214876" id="Fill-43" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    <polygon id="Fill-44" fill="#FFFFFF" mask="url(#mask-2)" points="19 43.4214876 53 43.4214876 53 27.4214876 19 27.4214876"></polygon>
+                    <polygon id="Stroke-45" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" points="19 43.4214876 53 43.4214876 53 27.4214876 19 27.4214876"></polygon>
+                    <path d="M51,42.4214876 C51,36.8996258 46.5236512,32.4214876 41.0005038,32.4214876 C35.4773563,32.4214876 31,36.8996258 31,42.4214876 L51,42.4214876 Z" id="Fill-46" fill="#235BA8" mask="url(#mask-2)"></path>
+                    <path d="M37,42.4214876 C37,38.5557848 34.089798,35.4214876 30.4995156,35.4214876 C26.910202,35.4214876 24,38.5557848 24,42.4214876 L37,42.4214876 Z" id="Fill-47" fill="#235BA8" mask="url(#mask-2)"></path>
+                    <path d="M44,32.4219477 C44,30.7648398 45.3433522,29.4214876 47.0004601,29.4214876 C48.6566478,29.4214876 50,30.7648398 50,32.4219477 C50,34.0781354 48.6566478,35.4214876 47.0004601,35.4214876 C45.3433522,35.4214876 44,34.0781354 44,32.4219477" id="Fill-48" fill="#235BA8" mask="url(#mask-2)"></path>
+                    <path d="M12.5009969,26.4214876 C5.59753569,26.4214876 0,32.0172526 0,38.922983 C0,45.8257226 5.59753569,51.4214876 12.5009969,51.4214876 C19.4044581,51.4214876 25,45.8257226 25,38.922983 C25,32.0172526 19.4044581,26.4214876 12.5009969,26.4214876" id="Fill-49" fill="#29B17B" mask="url(#mask-2)"></path>
+                    <path d="M9.55183356,44.861431 C6.35244775,43.2138465 5.08074219,39.2537375 6.70860579,36.0166106 C8.33646939,32.7794837 12.2491774,31.4903353 15.4475571,33.1389381 C18.6459368,34.7865227 19.9196546,38.7466317 18.291791,41.9837586 C17.3742313,43.8054699 15.7363067,45.0101006 13.90823,45.4214876" id="Stroke-50" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                    <polyline id="Stroke-51" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" points="9.92568558 39.4214876 10 44.3472455 5 44.4214876"></polyline>
+                    <path d="M105.500997,26.4214876 C98.5975357,26.4214876 93,32.0172526 93,38.922983 C93,45.8257226 98.5975357,51.4214876 105.500997,51.4214876 C112.404458,51.4214876 118,45.8257226 118,38.922983 C118,32.0172526 112.404458,26.4214876 105.500997,26.4214876" id="Fill-52" fill="#235BA8" mask="url(#mask-2)"></path>
+                    <path d="M111.876,37.6644617 C112.570246,41.185845 110.279233,44.6025929 106.757693,45.2978145 C103.236153,45.991024 99.8192528,43.7001126 99.1240002,40.1787294 C98.4297537,36.6573461 100.720767,33.2405983 104.242307,32.5453766 C106.223425,32.1550061 108.17134,32.7093724 109.620202,33.8955755" id="Stroke-53" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)"></path>
+                    <polyline id="Stroke-54" stroke="#FFFFFF" stroke-width="2" mask="url(#mask-2)" points="108 40.6589674 111.86875 37.4214876 115 41.4214876"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
