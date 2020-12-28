@@ -1,0 +1,164 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body {
+    font-size:18px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.wrap{
+    max-width: 1140px;
+    margin:auto;
+}
+/* table { border-collapse:collapse } */
+.hero{
+    background-color: #FDBD12;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:60vh;
+}
+.hero h1{
+    display: block;
+    position:relative;
+    font-size: 6rem;
+    line-height: 5rem;
+    z-index: 1;
+    color : #f2f2f2;
+
+}
+.hero h1::before{
+    content:" ";
+    position:absolute;
+    background-color: #f2f2f2;
+    height: 90%;
+    width: 20px;
+    left:-30px;
+    top:7px;
+    animation: load 1s   1  ;
+}
+@keyframes load{
+    0%{
+    height: 0%;
+
+    }
+    100%{
+        height:90%;
+    }
+}
+
+.billimage{
+    padding:0.5rem;
+    background-color: black;
+    transform: translateX(-10%);
+}
+.hero img{
+    height: 300px;
+    z-index: 0;
+}
+.stable{
+  padding:5rem;
+}
+.stable table{
+    padding:1rem;
+    border:none;
+}
+.stable td{
+    padding:0.5rem;
+  
+}
+.stable tr{
+    transition: all 0.3s ease-in-out;
+}
+.stable table td:first-child{
+    background-color: #FDBD12;
+   
+}
+.stable table td:nth-child(2){
+    background-color: #F0F1F4;
+}
+.stable table tr:hover{
+
+    transform:scale(1.1)
+    
+
+}
+hr{
+height : 3px;
+ background-color: #FDBD12;
+ width:300px;
+ position: relative;
+left:50%;
+transform:translateX(-50%);
+ border: none;
+ margin-bottom:1rem;
+
+}
+.about{
+    padding-bottom: 5rem;
+    
+}
+
+h2{
+    text-align: center;
+    font-size:2rem;
+    margin-bottom: 1rem;
+}
+.about p{
+    padding:0.5rem;
+}
+.sgallery{
+    background-color: #FDBD12;
+    color:#f2f2f2;
+    padding-bottom: 5rem;
+    padding-top: 1rem;;
+
+   
+}
+.sgallery hr{
+    background-color: #F0F1F4;
+}
+.gimg{
+    display: flex;    
+    justify-content: space-around;
+}
+
+.smedia{
+    padding-top:1rem;
+    padding-bottom:1rem;
+}
+.smedia ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+} 
+.smedia ul li{
+    padding:.5rem 1rem;
+    text-transform: uppercase;
+    margin: 0 1rem;
+    position: relative;
+    z-index: 1;
+}
+.smedia ul li::before{
+    content:" ";
+    position:absolute;
+    background-color: #FDBD12;
+    height: 0;
+    width:0;
+    left:0;
+    top:0;
+    z-index:-1;
+    transition: all 0.3s ease-in-out;
+}
+.smedia ul li:hover > a{
+    color:#f2f2f2;
+}
+.smedia ul li:hover::before{
+  
+    height: 100%;
+    width:100%;
+    z-index:-1;
+}
